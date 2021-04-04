@@ -5,7 +5,6 @@ import weather
 import texttospeech
 import pyaudio
 
-
 # Details about the bot
 name = "Cassandra"
 age = 17
